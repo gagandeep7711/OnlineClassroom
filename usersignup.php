@@ -177,7 +177,7 @@ if(isset($_SESSION["username"]))
   		    <button type="button" id="done" class="btn" style="width:140px; background-color:#3E065F; color:#ffffff;" onclick="check()">Sign up</button>
           </div>
 		  <div class="card-foter"  style="margin-top:20px;border-top:1px solid #3E065F;font-size:large">
-  		    <a href="userlogin.php" id="already" style="color:#3E065F">Already have account?</a>
+  		    <a href="userlogin.php" id="already" style="color:#3E065F">Already have account? </a>
           </div>
         </div>
       </div>
